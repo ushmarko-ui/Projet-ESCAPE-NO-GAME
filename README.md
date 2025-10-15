@@ -1,5 +1,6 @@
 # Projet-AIL3C
-![Uploading image.png…]()
+<img width="1330" height="859" alt="image" src="https://github.com/user-attachments/assets/d0dedc26-a2d5-4b48-a658-eb22e2561347" />
+
 
 
 Développer une solution de communication basée sur les **ondes sonores** afin de permettre à un **agent secret isolé** de maintenir le contact avec l’extérieur, même sans réseau classique.  
