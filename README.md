@@ -40,10 +40,19 @@ Le projet inclut la **modélisation**, l’**expérimentation**, la **simulation
 
 ---
 
-## Auteur
-Projet réalisé dans le cadre du département **Recherche & Développement** de l’agence  
-**AIL3C (Agence Indépendante de Lutte Contre la CyberCriminalité)**.  
-Objectif : assurer la communication des agents secrets dans les environnements les plus extrêmes, grâce à la science et à l’innovation.
+## 👨‍💻 Auteur
+
+**de Cespedes Novakovic Marko**  
+Étudiant en 2e année de cycle préparatoire d'école d'ingénieurs **CESI Reims**.  
+
+📧 **Contact** :  ushmarko@gmail.com 
+🔗 **LinkedIn** : https://www.linkedin.com/in/marko-de-cespedes-139695360/
+
+---
+
+Merci de consulter ce dépôt !  
+N’hésitez pas à me contacter pour toute question.
+
 
 
 
