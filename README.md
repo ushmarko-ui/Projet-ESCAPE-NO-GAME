@@ -1,2 +1,49 @@
-# Projet-ESCAPE-NO-GAME
-Le projet AIL3C vise à concevoir une solution de communication fonctionnant sans réseau classique, à partir d’un simple micro, pour éviter qu’un agent secret isolé ne perde le contact. L’objectif est de créer, modéliser et tester un système utilisant les ondes sonores dans Jupyter.
+# Projet-AIL3C
+![Uploading image.png…]()
+
+
+Développer une solution de communication basée sur les **ondes sonores** afin de permettre à un **agent secret isolé** de maintenir le contact avec l’extérieur, même sans réseau classique.  
+Le projet inclut la **modélisation**, l’**expérimentation**, la **simulation** et la **réalisation d’un prototype** en Python dans un environnement Jupyter.
+
+---
+
+## Fonctionnalités principales
+- Étude et modélisation du comportement des ondes sonores en milieu isolé  
+- Conception d’une solution de communication sans réseau ni ondes radio  
+- Validation expérimentale et simulation via **Jupyter Notebook**  
+- Modélisation de la chaîne de transmission en **Markdown** (VS Code)  
+- Développement d’un **prototype fonctionnel** en Python  
+- Rédaction d’un **rapport récapitulatif** au format PDF
+
+---
+
+## Technologies utilisées
+- **Python**  
+- **Jupyter Notebook** (simulation et visualisation)  
+- **VS Code** (rédaction et modélisation en Markdown)  
+- **Bibliothèques scientifiques** : NumPy, Matplotlib, SciPy  
+
+---
+
+## Données
+- Données simulées à partir de scénarios d’isolement et de propagation d’ondes sonores  
+- Tests menés sur différentes fréquences et environnements acoustiques  
+
+---
+
+## Fichiers inclus
+- `livrable2.pdf` → Validation expérimentale et résultats des tests  
+- `livrable3.md` → Modélisation et description technique (VS Code)  
+- `livrable4.py` → Code final du prototype fonctionnel  
+- `recapitulatif_projet.pdf` → Présentation PowerPoint du projet et résumé des livrables 2 et 3  
+
+---
+
+## Auteur
+Projet réalisé dans le cadre du département **Recherche & Développement** de l’agence  
+**AIL3C (Agence Indépendante de Lutte Contre la CyberCriminalité)**.  
+Objectif : assurer la communication des agents secrets dans les environnements les plus extrêmes, grâce à la science et à l’innovation.
+
+
+
+
