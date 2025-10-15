@@ -40,13 +40,13 @@ Le projet inclut la **modélisation**, l’**expérimentation**, la **simulation
 
 ---
 
-## 👨‍💻 Auteur
+## Auteur
 
 **de Cespedes Novakovic Marko**  
 Étudiant en 2e année de cycle préparatoire d'école d'ingénieurs **CESI Reims**.  
 
-📧 **Contact** :  ushmarko@gmail.com 
-🔗 **LinkedIn** : https://www.linkedin.com/in/marko-de-cespedes-139695360/
+ **Contact** :  ushmarko@gmail.com 
+ **LinkedIn** : https://www.linkedin.com/in/marko-de-cespedes-139695360/
 
 ---
 
