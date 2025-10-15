@@ -33,10 +33,10 @@ Le projet inclut la **modélisation**, l’**expérimentation**, la **simulation
 ---
 
 ## Fichiers inclus
-- `livrable2.pdf` → Validation expérimentale et résultats des tests  
-- `livrable3.md` → Modélisation et description technique (VS Code)  
-- `livrable4.py` → Code final du prototype fonctionnel  
-- `recapitulatif_projet.pdf` → Présentation PowerPoint du projet et résumé des livrables 2 et 3  
+- Livrable 2.pdf: Validation expérimentale et résultats des tests  
+- Livrable 2.pdf:  Modélisation et description technique (VS Code)  
+- Livrable 4.pdf: Code final du prototype fonctionnel  
+- recapitulatif.pptx: Présentation PowerPoint du projet et résumé des livrables 2 et 3  
 
 ---
 
